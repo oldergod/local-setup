@@ -1,0 +1,17 @@
+[user]
+  name = benoit
+  email = oldering@gmail.com
+[push]
+  default = current
+[core]
+	editor = vim
+[color "diff"]
+	func = bold cyan
+	old = bold red
+	new = bold green
+	frag = bold magenta
+[color "status"]
+	added = bold green
+	updated = bold green
+	changed = bold red
+	untracked = bold red
